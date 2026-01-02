@@ -1,0 +1,69 @@
+🧠 LOGIC STRENGTHENING (VERY IMPORTANT)
+These sharpen raw thinking.
+
+Check whether a number is a Harshad (Niven) Number
+Find the sum of factorials of digits of a number
+Find digital root of a number
+Convert a decimal number to binary (without built-in methods)
+Convert binary to decimal
+Count trailing zeros in a factorial
+Check if a number can be expressed as sum of two primes
+Print all palindromic numbers in a given range
+Find the largest palindrome made from product of two numbers
+Find count of numbers with unique digits in a range
+
+🔢 LOOP MASTERY QUESTIONS
+Companies use these to test loop control.
+
+Print numbers without using numbers (only loops & char)
+Print 1 to 100 without using ++
+Multiply two numbers without using *
+Divide two numbers without using /
+Find quotient and remainder without / or %
+Print a number pattern using only one loop
+Print inverted number triangle without using nested loops
+Find sum of digits using recursion OR loop (try both)
+Print Fibonacci series without using extra variables
+Generate first N numbers divisible by 3 and 5
+
+📦 ARRAY THINKING (COMPANY CORE)
+These are actual interview favorites.
+
+Find the third largest element in an array
+Find the kth smallest element
+Find elements that appear only once
+Count pairs with equal sum
+Find all pairs whose difference is K
+Replace each element with its rank
+Find the longest consecutive sequence
+Rearrange array as positive, negative alternately
+Move all negative numbers to the beginning
+Find minimum number of swaps to sort the array
+
+🧮 2-D ARRAY / MATRIX (HIGHLY ASKED)
+Companies love matrix logic.
+
+Find row with maximum number of 1s
+Print matrix in snake pattern
+Print matrix in zigzag order
+Find sum of each row and column
+Find product of diagonal elements
+Check if matrix is identity matrix
+Check if matrix is upper triangular
+Replace matrix elements with row sum
+Rotate matrix 180 degrees
+Find maximum element in each row
+
+🔍 PROBLEM SOLVING (INTERVIEW STYLE)
+These test real reasoning.
+
+Find smallest missing positive number
+Find array element closest to zero
+Find longest palindrome in an array of numbers
+Check if array can be split into two equal sum parts
+Find sum of all subarrays
+Find number of subarrays with even sum
+Replace array elements with product of others
+Find element with maximum frequency
+Find minimum distance between same elements
+Check if array follows a mountain pattern
