@@ -5,6 +5,12 @@
   2. Reverse Right Half Pyramid
   3. Left Half Pyramid
 
+4.Show the following patterns using single print statement:
+  1. Right Half Pyramid
+  2. Reverse Right Half Pyramid
+  3. Left Half Pyramid
+
+
 51. Create a Book class for a library system.
 • Instance variables: title, author, isbn.
 • Static variable: totalBooks, a counter for the total number of book instances.
