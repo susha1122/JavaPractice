@@ -1,6 +1,6 @@
 //53. Create a program to find the minimum of two numbers.
 
-package Challenges;
+package challenges;
 
 import java.util.Scanner;
 

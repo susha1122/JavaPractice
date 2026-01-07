@@ -8,7 +8,7 @@ unenrollStudent(String studentName).
 • Static method: setMaxCapacity(int capacity), to set the maximum 
 capacity for courses.
 */
-package Challenges;
+package challenges;
 
 
 import java.util.ArrayList;

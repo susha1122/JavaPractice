@@ -1,5 +1,5 @@
 //Create a program to find if the given number is even or odd
-package Challenges;
+package challenges;
 
 import java.util.Scanner;
 

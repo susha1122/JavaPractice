@@ -7,7 +7,7 @@
 // library.
 
 
-package Challenges;
+package challenges;
 
 import java.util.Scanner;
 

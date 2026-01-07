@@ -2,7 +2,7 @@
 // 1. Right Half Pyramid
 // 2. Reverse Right Half Pyramid
 // 3. Left Half Pyramid
-package Challenges;
+package challenges;
 
 public class Challenge3 {
   public static void main(String[] args) {

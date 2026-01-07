@@ -1,7 +1,7 @@
 //Create a program to calculate the absolute value of a given integer.
 
 
-package Challenges;
+package challenges;
 
 import java.util.Scanner;
 
