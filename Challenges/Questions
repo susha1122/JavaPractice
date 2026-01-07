@@ -14,6 +14,8 @@
 
 6. Create a program to add two numbers.
 
+7. Create a program to swap two numbers.
+
 51. Create a Book class for a library system.
 • Instance variables: title, author, isbn.
 • Static variable: totalBooks, a counter for the total number of book instances.
