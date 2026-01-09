@@ -74,5 +74,4 @@
 
 75. Take an array of words and concatenate them into a single string using StringBuilder.
 
-76. Create an object with final fields and a constructor to initialize 
-them.
+76. Create an object with final fields and a constructor to initialize them.
