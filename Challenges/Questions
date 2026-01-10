@@ -18,7 +18,7 @@
 
 8. Create a program that takes two numbers and shows result of all arithmetic operators (+,-,*,/,%).
 
-
+9. Create a program to calculate product of two floating points numbers.
 
 51. Create a Book class for a library system.
 • Instance variables: title, author, isbn.
