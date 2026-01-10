@@ -18,5 +18,7 @@ public class Challenge9 {
 
         //print
         System.out.printf("The product of two floating point number is, %f", product);
+
+        input.close();
     }
 }

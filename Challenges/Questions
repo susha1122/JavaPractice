@@ -20,6 +20,8 @@
 
 9. Create a program to calculate product of two floating points numbers.
 
+10. Create a program to calculate Perimeter of a rectangle. Perimeter of rectangle ABCD = A+B+C+D
+
 51. Create a Book class for a library system.
 • Instance variables: title, author, isbn.
 • Static variable: totalBooks, a counter for the total number of book instances.
