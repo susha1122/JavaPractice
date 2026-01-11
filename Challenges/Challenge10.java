@@ -18,7 +18,6 @@ public class Challenge10 {
         int num4 = input.nextInt();
 
         //Perimeter of Rectangle
-        int perimeterLelfHandSide = num1 * num2 * num3 * num4;
         int perimeterRightHandSide = num1 + num2 + num3 + num4;
         //int perimeter = (perimeterLelfHandSide == perimeterRightHandSide);
 
