@@ -24,6 +24,10 @@
 
 11. Create a program to calculate the Area of a Triangle. Area of triangle = 2*B*H
 
+12. Create a program to calculate simple interest. Simple Interest = (P x T x R)/100
+
+13. Create a program to calculate Compound interest. Compound Interest = P(1 + R/100)t
+
 51. Create a Book class for a library system.
 • Instance variables: title, author, isbn.
 • Static variable: totalBooks, a counter for the total number of book instances.
