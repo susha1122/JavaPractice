@@ -30,6 +30,9 @@
 
 14. Create a program to convert Fahrenheit to Celsius. °C = (°F-32) x 5/9
 
+15. Create a program that determines if a number is positive, negative, or zero.
+
+
 51. Create a Book class for a library system.
 • Instance variables: title, author, isbn.
 • Static variable: totalBooks, a counter for the total number of book instances.
