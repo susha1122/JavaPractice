@@ -36,6 +36,8 @@
 
 17. Create a program that determines the greatest of the three numbers.
 
+18. Create a program that determines if a given year is a leap year (considering conditions like divisible by 4 but not 100, unless also divisible by 400).
+
 51. Create a Book class for a library system.
 • Instance variables: title, author, isbn.
 • Static variable: totalBooks, a counter for the total number of book instances.
