@@ -28,6 +28,8 @@
 
 13. Create a program to calculate Compound interest. Compound Interest = P(1 + R/100)t
 
+14. Create a program to convert Fahrenheit to Celsius. °C = (°F-32) x 5/9
+
 51. Create a Book class for a library system.
 • Instance variables: title, author, isbn.
 • Static variable: totalBooks, a counter for the total number of book instances.
