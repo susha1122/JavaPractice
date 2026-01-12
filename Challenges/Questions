@@ -34,6 +34,8 @@
 
 16. Create a program that determines if a number is odd or even.
 
+17. Create a program that determines the greatest of the three numbers.
+
 51. Create a Book class for a library system.
 • Instance variables: title, author, isbn.
 • Static variable: totalBooks, a counter for the total number of book instances.
