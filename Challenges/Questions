@@ -51,7 +51,7 @@
     Teen -> below 20
     Senior-> above 60
 
-
+21. Create a program that shows bitwise AND of two numbers.
 
 51. Create a Book class for a library system.
     • Instance variables: title, author, isbn.
