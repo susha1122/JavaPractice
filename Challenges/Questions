@@ -45,6 +45,14 @@
     B -> above 75%
     D -> above 30%
 
+20. Create a program that categorize a person into different age groups
+    Child -> below 13
+    Adult -> below 50
+    Teen -> below 20
+    Senior-> above 60
+
+
+
 51. Create a Book class for a library system.
     • Instance variables: title, author, isbn.
     • Static variable: totalBooks, a counter for the total number of book instances.
