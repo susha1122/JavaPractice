@@ -6,7 +6,7 @@ package challenges;
 import java.util.Scanner;
 
 public class Challenge8 {
-  public static void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("All Arithmetic Operators");
         Scanner input = new Scanner(System.in);
         System.out.print("Please, Enter number 1: ");

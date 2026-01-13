@@ -5,7 +5,7 @@ package challenges;
 import java.util.Scanner;
 
 public class Challenge9 {
-  public static void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("Product of Two Floating Point");
         Scanner input = new Scanner(System.in);
         System.out.print("Enter floating point number 1: ");

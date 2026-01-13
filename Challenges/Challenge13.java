@@ -5,7 +5,7 @@ package challenges;
 import java.util.Scanner;
 
 public class Challenge13 {
-  public static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("=== Compound Interest Calculator ===");
 

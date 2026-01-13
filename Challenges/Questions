@@ -1,14 +1,14 @@
 2. Create a new Project in Intelij Idea and output "subscribe" on the console.
 
 3. Show the following patterns:
-  1. Right Half Pyramid
-  2. Reverse Right Half Pyramid
-  3. Left Half Pyramid
+    1. Right Half Pyramid
+    2. Reverse Right Half Pyramid
+    3. Left Half Pyramid
 
 4. Show the following patterns using single print statement:
-  1. Right Half Pyramid
-  2. Reverse Right Half Pyramid
-  3. Left Half Pyramid
+    1. Right Half Pyramid
+    2. Reverse Right Half Pyramid
+    3. Left Half Pyramid
 
 5. Create a program to input name of the person and respond with "Welcome NAME to KG Coding"
 
@@ -38,17 +38,24 @@
 
 18. Create a program that determines if a given year is a leap year (considering conditions like divisible by 4 but not 100, unless also divisible by 400).
 
+19. Create a program that calculates grades based on marks
+    A -> above 90%
+    C -> above 60%
+    F -> below 30%
+    B -> above 75%
+    D -> above 30%
+
 51. Create a Book class for a library system.
-• Instance variables: title, author, isbn.
-• Static variable: totalBooks, a counter for the total number of book instances.
-• Instance methods: borrowBook(), returnBook().
-• Static method: getTotalBooks(), to get the total number of books in the library.
+    • Instance variables: title, author, isbn.
+    • Static variable: totalBooks, a counter for the total number of book instances.
+    • Instance methods: borrowBook(), returnBook().
+    • Static method: getTotalBooks(), to get the total number of books in the library.
 
 52. Design a Course class.
-• Instance variables: courseName, enrolledStudents.
-• Static variable: maxCapacity, the maximum number of students for any course.
-• Instance methods: enrollStudent(String studentName), unenrollStudent(String studentName).
-• Static method: setMaxCapacity(int capacity), to set the maximum capacity for courses.
+    • Instance variables: courseName, enrolledStudents.
+    • Static variable: maxCapacity, the maximum number of students for any course.
+    • Instance methods: enrollStudent(String studentName), unenrollStudent(String studentName).
+    • Static method: setMaxCapacity(int capacity), to set the maximum capacity for courses.
 
 53. Create a program to find the minimum of two numbers.
 
@@ -97,3 +104,4 @@
 75. Take an array of words and concatenate them into a single string using StringBuilder.
 
 76. Create an object with final fields and a constructor to initialize them.
+

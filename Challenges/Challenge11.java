@@ -5,7 +5,7 @@ package challenges;
 import java.util.Scanner;
 
 public class Challenge11 {
-  public static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Area of Triangle..");
         System.out.print("Enter the breadth of Triangle: ");

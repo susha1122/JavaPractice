@@ -1,16 +1,16 @@
 🧠 LOGIC STRENGTHENING (VERY IMPORTANT)
 These sharpen raw thinking.
 
-Check whether a number is a Harshad (Niven) Number
-Find the sum of factorials of digits of a number
-Find digital root of a number
-Convert a decimal number to binary (without built-in methods)
-Convert binary to decimal
-Count trailing zeros in a factorial
-Check if a number can be expressed as sum of two primes
-Print all palindromic numbers in a given range
-Find the largest palindrome made from product of two numbers
-Find count of numbers with unique digits in a range
+1. Check whether a number is a Harshad (Niven) Number.
+2. Find the sum of factorials of digits of a number
+3. Find digital root of a number
+4. Convert a decimal number to binary (without built-in methods)
+5. Convert binary to decimal
+6. Count trailing zeros in a factorial
+7. Check if a number can be expressed as sum of two primes
+8. Print all palindromic numbers in a given range
+9. Find the largest palindrome made from product of two numbers
+10. Find count of numbers with unique digits in a range
 
 🔢 LOOP MASTERY QUESTIONS
 Companies use these to test loop control.
