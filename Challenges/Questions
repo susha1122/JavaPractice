@@ -55,6 +55,8 @@
 
 22. Create a program that shows bitwise OR of two numbers.
 
+23. Create a program that shows bitwise XOR of two numbers.
+
 51. Create a Book class for a library system.
     • Instance variables: title, author, isbn.
     • Static variable: totalBooks, a counter for the total number of book instances.
