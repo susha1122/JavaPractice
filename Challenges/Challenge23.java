@@ -20,5 +20,7 @@ public class Challenge23 {
 
         //final print statement
         System.out.println("The Result is: " + result);
+
+        input.close();
     }
 }
