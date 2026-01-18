@@ -73,6 +73,8 @@
 
 31. Create a program that computes the sum of the digits of an integer.
 
+32. Create a program to find the Least Common Multiple (LCM) of two numbers.32.Create a program to find the Least Common Multiple (LCM) of two numbers.
+
 51. Create a Book class for a library system.
     • Instance variables: title, author, isbn.
     • Static variable: totalBooks, a counter for the total number of book instances.
