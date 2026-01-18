@@ -71,6 +71,8 @@
 
 30. Write a function that calculates the factorial of a given number.
 
+31. Create a program that computes the sum of the digits of an integer.
+
 51. Create a Book class for a library system.
     • Instance variables: title, author, isbn.
     • Static variable: totalBooks, a counter for the total number of book instances.
