@@ -69,6 +69,8 @@
 
 29. Create a program to sum all odd numbers from 1 to a specified number N.
 
+30. Write a function that calculates the factorial of a given number.
+
 51. Create a Book class for a library system.
     • Instance variables: title, author, isbn.
     • Static variable: totalBooks, a counter for the total number of book instances.
