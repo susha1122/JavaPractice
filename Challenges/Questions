@@ -77,6 +77,8 @@
 
 33. Create a program to find the Greatest Common Divisor (GCD) of two integers.
 
+34. Create a program to check whether a given number is prime.
+
 51. Create a Book class for a library system.
     • Instance variables: title, author, isbn.
     • Static variable: totalBooks, a counter for the total number of book instances.
