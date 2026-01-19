@@ -85,6 +85,8 @@
 
 37. Create a program to check if a number is an Armstrong number
 
+38. Create a program to verify if a number is a palindrome
+
 51. Create a Book class for a library system.
     • Instance variables: title, author, isbn.
     • Static variable: totalBooks, a counter for the total number of book instances.
