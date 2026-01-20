@@ -98,6 +98,7 @@
 
 42. Create a program to find the maximum and minimum element in an array.
 
+43. Create a program to check if the given array is sorted.
 
 51. Create a Book class for a library system.
     • Instance variables: title, author, isbn.
