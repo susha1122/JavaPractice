@@ -92,6 +92,8 @@
     2. Reverse Right Half Pyramid
     3. Left Half Pyramid
 
+40. Create a program to find the sum and average of all elements in an array.
+
 51. Create a Book class for a library system.
     • Instance variables: title, author, isbn.
     • Static variable: totalBooks, a counter for the total number of book instances.
