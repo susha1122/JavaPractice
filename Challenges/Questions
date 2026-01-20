@@ -87,6 +87,11 @@
 
 38. Create a program to verify if a number is a palindrome
 
+39. Show the following patterns using single loop.:
+    1. Right Half Pyramid
+    2. Reverse Right Half Pyramid
+    3. Left Half Pyramid
+
 51. Create a Book class for a library system.
     • Instance variables: title, author, isbn.
     • Static variable: totalBooks, a counter for the total number of book instances.
